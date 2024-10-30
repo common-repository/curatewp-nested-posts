@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>nested posts icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="nested-posts-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFD700" x="0" y="0" width="256" height="256"></rect>
+        <g id="baseline-clear_all-24px" transform="translate(76.000000, 128.000000) scale(-1, 1) translate(-76.000000, -128.000000) translate(-104.000000, -52.000000)">
+            <path d="M75,195 L285,195 L285,165 L75,165 L75,195 Z M45,255 L255,255 L255,225 L45,225 L45,255 Z M105,105 L105,135 L315,135 L315,105 L105,105 Z" id="Shape" fill="#E6C200" fill-rule="nonzero"></path>
+            <polygon id="Path" points="0 0 360 0 360 360 0 360"></polygon>
+        </g>
+        <text id="CurateWP" font-family="Laila-Bold, Laila" font-size="24" font-weight="bold" fill="#191500">
+            <tspan x="67.016" y="155">CurateWP</tspan>
+        </text>
+        <text id="Nested-Posts" font-family="Laila-Regular, Laila" font-size="32" font-weight="normal" line-spacing="38" fill="#191500">
+            <tspan x="30.5" y="126">Nested Posts</tspan>
+        </text>
+    </g>
+</svg>
